@@ -1,0 +1,9 @@
+/home/student/Pulpit/husCode/CMakeFiles/rebuild_cache.dir
+/home/student/Pulpit/husCode/CMakeFiles/printvars.dir
+/home/student/Pulpit/husCode/CMakeFiles/flash.dir
+/home/student/Pulpit/husCode/CMakeFiles/console.dir
+/home/student/Pulpit/husCode/CMakeFiles/myproject.bin.dir
+/home/student/Pulpit/husCode/CMakeFiles/edit_cache.dir
+/home/student/Pulpit/husCode/CMakeFiles/myproject.elf.dir
+/home/student/Pulpit/husCode/CMakeFiles/flash_myproject.dir
+/home/student/Pulpit/husCode/CMakeFiles/myproject.hex.dir
